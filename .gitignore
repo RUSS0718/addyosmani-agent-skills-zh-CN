@@ -8,3 +8,13 @@ node_modules/
 evals/results/
 evals/plugin/results/
 __pycache__/
+
+# Local translation helpers and intermediate artifacts
+retranslate_*.py
+repair_zh_*.py
+link_check_*.py
+translation-*.py
+translation-cache/
+zh-clean/
+addy-check/
+*.argosmodel
